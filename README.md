@@ -37,7 +37,11 @@ requests
 ```pip3 install -r requirements.txt```
 
 
-
+### To run
+```
+cd webcrawler
+uvicorn main:app --reload
+```
 
 ## Celery Configuration
 
