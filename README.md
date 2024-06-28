@@ -6,7 +6,7 @@
 ## Introduction
 
 
-In this documentation, we will understand the how to asynchronously crawl web pages using redis and celery
+In this documentation, we will understand how to asynchronously crawl web pages using redis and celery
 
 
 
